@@ -1,0 +1,14 @@
+import unittest
+from nba import databaseOfPlayers
+
+
+class Testnba(unittest.TestCase):
+    def test_databaseOfPlayers(self):
+        self.assertEqual(function1(1), 0)
+        player_data = databaseOfPlayers()
+        assertEqual(player_data[1]['first_name'], "Stephen")
+        assertNotEqual(player_data[1]['team']['full_name'], "Green State Warriors)
+        
+
+if __name__ == '__main__':
+    unittest.main()
