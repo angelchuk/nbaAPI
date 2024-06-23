@@ -7,3 +7,5 @@
 # View table of NBA players with certain name
  * replace 'curry' in API request with your choice of a name
  * run 'python3 nba.py' in nbaAPI folder
+# Workflow Badge
+ * https://github.com/angelchuk/nbaAPI/actions/workflows/main.yml/badge.svg
